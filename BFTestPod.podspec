@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "BFTestPod.podspec"
+  spec.name         = "BFTestPod"
   spec.version      = "1.0.0"
   spec.summary      = "A short description of BFTestPod.podspec."
 
